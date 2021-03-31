@@ -1,0 +1,15 @@
+/Users/whitstroup/repos/dotNetConsole/bin/Debug/net5.0/dotNetConsole.deps.json
+/Users/whitstroup/repos/dotNetConsole/bin/Debug/net5.0/dotNetConsole.runtimeconfig.json
+/Users/whitstroup/repos/dotNetConsole/bin/Debug/net5.0/dotNetConsole.runtimeconfig.dev.json
+/Users/whitstroup/repos/dotNetConsole/bin/Debug/net5.0/dotNetConsole.dll
+/Users/whitstroup/repos/dotNetConsole/bin/Debug/net5.0/ref/dotNetConsole.dll
+/Users/whitstroup/repos/dotNetConsole/bin/Debug/net5.0/dotNetConsole.pdb
+/Users/whitstroup/repos/dotNetConsole/obj/Debug/net5.0/dotNetConsole.csprojAssemblyReference.cache
+/Users/whitstroup/repos/dotNetConsole/obj/Debug/net5.0/dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whitstroup/repos/dotNetConsole/obj/Debug/net5.0/dotNetConsole.AssemblyInfoInputs.cache
+/Users/whitstroup/repos/dotNetConsole/obj/Debug/net5.0/dotNetConsole.AssemblyInfo.cs
+/Users/whitstroup/repos/dotNetConsole/obj/Debug/net5.0/dotNetConsole.csproj.CoreCompileInputs.cache
+/Users/whitstroup/repos/dotNetConsole/obj/Debug/net5.0/dotNetConsole.dll
+/Users/whitstroup/repos/dotNetConsole/obj/Debug/net5.0/ref/dotNetConsole.dll
+/Users/whitstroup/repos/dotNetConsole/obj/Debug/net5.0/dotNetConsole.pdb
+/Users/whitstroup/repos/dotNetConsole/obj/Debug/net5.0/dotNetConsole.genruntimeconfig.cache
